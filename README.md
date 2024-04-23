@@ -26,7 +26,7 @@ javac HelloWorld.java
 
 ## Excute the program
 
-To execute the program, type this:
+To execute the program, type this from hussin:
 
 ```console
 java HelloWorld
